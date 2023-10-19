@@ -57,3 +57,5 @@ divideTotal(total, numberOfFriends);
 
 //Hämtar det som skrivits i inputfältet med ID numberOfFriends
 document.querySelector('#numberOfFriends').value;
+
+return calculatedTip;
